@@ -1,9 +1,8 @@
 ToolButton.tbFont=&Font
 
-ToolButto n.tbHelp=&Help
+ToolButton.tbHelp=&Help
 ToolButton.tbDonation=&Donation
 Tool2Button.tbDonation=&Do2nation
-aToolButto n.tbHelp=a&Help
 bToolButto:n.tbHelp=b&Help
 cToolButto:n.tbHelp=c&Help
 dToolButto:n.tbHelp=d&Help
